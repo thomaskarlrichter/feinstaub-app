@@ -13,7 +13,7 @@ var connectHandler = WebApp.connectHandlers;
         var data;
         /*var res = HTTP.call("GET", "http://192.168.4.1/");
         return res.content; */
-        return {};
+      return {"data":"nothing"};
     }
 });
 
