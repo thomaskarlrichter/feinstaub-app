@@ -11,8 +11,9 @@ var connectHandler = WebApp.connectHandlers;
 
         this.unblock();
         var data;
-        var res = HTTP.call("GET", "http://192.168.4.1/");
-        return res.content;
+        /*var res = HTTP.call("GET", "http://192.168.4.1/");
+        return res.content; */
+        return {};
     }
 });
 

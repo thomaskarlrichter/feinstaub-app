@@ -1,5 +1,4 @@
 application-configuration@1.0.4
-autopublish@1.0.2
 autoupdate@1.1.5
 base64@1.0.2
 binary-heap@1.0.2
@@ -13,6 +12,7 @@ deps@1.0.6
 ejson@1.0.5
 fastclick@1.0.2
 follower-livedata@1.0.3
+fuatsengul:leaflet@1.0.1
 geojson-utils@1.0.2
 html-tools@1.0.3
 htmljs@1.0.3
@@ -22,7 +22,6 @@ insecure@1.0.2
 jquery@1.11.3
 json@1.0.2
 launch-screen@1.0.1
-leaflet@0.0.0
 livedata@1.0.12
 logging@1.0.6
 mdg:geolocation@1.0.2
